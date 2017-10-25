@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2017/01/25 14:12:28.000.924,=C:\Users\daniel.costa\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/06/20 14:11:22.000.417,=C:\Users\daniel.costa\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/06/20 15:42:55.000.136,=C:\Users\daniel.costa\Documents\RAD Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2017/06/20 17:04:33.000.737,F:\Projetos Pessoal\Similiridade\LoadList.pas=C:\Users\daniel.costa\Documents\RAD Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2017/06/20 17:04:42.000.652,F:\Projetos Pessoal\Similiridade\ufrmMain.dfm=C:\Users\daniel.costa\Documents\RAD Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2017/06/20 17:04:42.000.652,F:\Projetos Pessoal\Similiridade\ufrmMain.pas=C:\Users\daniel.costa\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/06/20 17:04:53.000.385,F:\Projetos Pessoal\Similiridade\CompararString.dproj=C:\Users\daniel.costa\Documents\RAD Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2017/06/21 12:27:51.000.224,=F:\Projetos Pessoal\Similiridade\Unit1.pas</Transaction>
+    <Transaction>2017/06/21 17:09:32.000.931,F:\Projetos Pessoal\Similiridade\Metaphone.pas=F:\Projetos Pessoal\Similiridade\Unit1.pas</Transaction>
+    <Transaction>2017/06/22 20:34:18.000.596,=E:\Projetos Pessoal\Similiridade\Unit1.pas</Transaction>
+    <Transaction>2017/06/22 20:36:59.000.635,E:\Projetos Pessoal\Similiridade\Unit1.pas=E:\Projetos Pessoal\Similiridade\Soundex.pas</Transaction>
+    <Transaction>2017/06/22 20:42:38.000.446,=E:\Projetos Pessoal\Similiridade\Unit1.pas</Transaction>
+    <Transaction>2017/06/22 20:43:06.000.789,E:\Projetos Pessoal\Similiridade\Unit1.pas=E:\Projetos Pessoal\Similiridade\BuscaBR.pas</Transaction>
+    <Transaction>2017/06/26 08:10:06.000.613,=F:\Projetos Pessoal\Similiridade\Tuples.pas</Transaction>
+    <Transaction>2017/06/26 12:22:33.000.732,=F:\Projetos Pessoal\Similiridade\Unit1.pas</Transaction>
+    <Transaction>2017/06/26 12:24:43.000.673,F:\Projetos Pessoal\Similiridade\SimilarityTest.pas=F:\Projetos Pessoal\Similiridade\Unit1.pas</Transaction>
+    <Transaction>2017/06/29 08:19:00.000.189,=F:\Projetos Pessoal\Similiridade\Unit1.pas</Transaction>
+    <Transaction>2017/06/29 09:31:50.000.479,F:\Projetos Pessoal\Similiridade\Unit1.pas=F:\Projetos Pessoal\Similiridade\FormsGenerics.pas</Transaction>
+  </Transactions>
+</BorlandProject>
